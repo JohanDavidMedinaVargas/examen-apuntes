@@ -1,0 +1,31 @@
+span.azul{
+    background-color: blue;
+    display:inline-block;
+    height: 300px;
+    width: 33%;
+}
+span.rojo{
+    background-color: red;
+    display: inline-block;
+    height: 300px;
+    width: 33%;
+}
+span.amarillo{
+    background-color: yellow;
+    display: inline-block;
+    height: 300px;
+    width: 33%;
+}
+.centro{
+    text-align-last: center;
+}
+.verde{
+    background-color: green;
+    color: green;
+}
+.estudiar {
+    font-style: inherit;
+}
+.azulito {
+    background-color:aquamarine ;
+}
